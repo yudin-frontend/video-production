@@ -1,0 +1,3 @@
+C:/video-production/build/CMakeFiles/video_production.dir
+C:/video-production/build/CMakeFiles/edit_cache.dir
+C:/video-production/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/video-production/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
